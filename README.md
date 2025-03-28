@@ -1,7 +1,7 @@
 # SpringBootVueJiaoXueSys
  基于JAVA SpringBoot和Vue教学管理教务管理系统
 
-演示视频链接：https://live.csdn.net/v/304378
+演示视频链接：https://www.bilibili.com/video/BV1Sh4y1X7As/
 
 实现的功能：
 
